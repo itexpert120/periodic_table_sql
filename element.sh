@@ -16,7 +16,7 @@ PRINT_ELEMENT() {
   then
     echo "I could not find that element in the database."
   else
-    
+    echo "this"
   fi
 }
 
